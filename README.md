@@ -4,4 +4,4 @@ Projeto criado para prática de banco de dados com SQL
 -
 -
 -
-Nome do servidor; DESKTOP-VE6VDS7\SQLEXPRESS
+git clone https://github.com/ecbjotape/SQL-Server.git
